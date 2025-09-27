@@ -49,3 +49,31 @@ Project consists of a simple install of Security Onion, an all in one IDS, on an
     - **Purpose**: Explore how to create a cohesive security monitoring and response framework.
   
 
+
+
+<h2>Steps</h2>
+
+
+<img width="881" height="742" alt="Screenshot 2025-09-21 210829" src="https://github.com/user-attachments/assets/698efca1-c831-4c7f-ac7f-f136202deb94" />
+
+- Added 2 network adapters
+      - 1 for the LAN
+      - 1 for the span port
+
+
+
+<img width="820" height="649" alt="Screenshot 2025-09-21 232658" src="https://github.com/user-attachments/assets/b1974472-a296-4524-a502-8a1ec219f4ee" />
+
+
+- I added a linux desktop for soc analyst to access security onion managent console
+- with that in mind, I had to use so-allow to allow access for this machine
+
+
+We now have access:
+<img width="884" height="787" alt="Screenshot 2025-09-21 233135" src="https://github.com/user-attachments/assets/384b6c82-0e13-43de-98ea-bb2fe916c111" />
+
+
+
+
+
+
